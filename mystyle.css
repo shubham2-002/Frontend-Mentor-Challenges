@@ -1,13 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Space+Mono&display=swap");
 
 body {
-  padding: 0;
-  margin: 0;
+
   display: grid;
-  box-sizing: border-box;
-  background-color: hsl(212, 45%, 89%);  min-height: 100vh;
+  background-color: hsl(212, 45%, 89%); 
+  min-height: 100vh;
   font-family: sans-serif;
-  text-align: center;
   place-items: center;
 }
 
